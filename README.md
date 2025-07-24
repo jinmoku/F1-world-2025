@@ -1,7 +1,4 @@
 
-Jingee Mok
-4:15 PM (16 minutes ago)
-to me
 
 import React, { useEffect, useState } from "react";
 import { Card, CardContent } from "@/components/ui/card";
